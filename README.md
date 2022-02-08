@@ -104,6 +104,6 @@ ForTesting
 ```
 
 ### Автор
-andreu-antonov@yandex.ru
+goloschapov56r@gmail.com
 
 
